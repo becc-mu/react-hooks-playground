@@ -16,7 +16,6 @@ const Main = () => {
     }
        
 
-    render() {
         return (
             <MainWrapper>
                 <h2>EX2_useState_intermediate_solution</h2>
@@ -32,6 +31,6 @@ const Main = () => {
             </MainWrapper>
         );
     }
-}
+
 
 export default Main;
